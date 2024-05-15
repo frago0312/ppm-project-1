@@ -569,6 +569,7 @@ form .checkbox label {
     justify-content: space-between;
     border-top: 1px solid #D2D2D2;
     padding-top:12px;
+    padding-bottom:12px;
 }
 .column-news .column-news-article .column-news-article.p{
     font-family: Arial, Helvetica, sans-serif;
